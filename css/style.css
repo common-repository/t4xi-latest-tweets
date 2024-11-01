@@ -1,0 +1,11 @@
+#twitter-widget-0 { width: 100%; }
+
+.thm-dark, .customisable-border { background: none; border: none; }
+
+.e-entry-title, .dt-updated { color: #d8d2bc; }
+
+.p-name, .p-nickname, .thm-dark a:link { color: #ffffff; }
+
+.ic-twitter-badge, .timeline-header { display: none; }
+
+.tweet { padding: 5px 0px 6px 0px !important; }
